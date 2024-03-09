@@ -1,0 +1,10 @@
+drafts.py
+venv
+.idea
+.env
+tests/.pytest_cache/
+tests/__pycache__/
+tests/.DS_Store
+.pytest_cache
+__pycache__/
+.DS_Store
